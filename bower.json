@@ -1,0 +1,24 @@
+{
+  "name": "konami-js",
+  "version": "1.0.0",
+  "homepage": "http://code.snaptortoise.com/konami-js/",
+  "authors": [
+    "George Mandis <george.mandis@gmail.com>"
+  ],
+  "description": "A quick and silly script for adding the konami code easter egg to your site. Works with gestures on iPhone/Android as well.",
+  "main": "konami.js",
+  "keywords": [
+    "konami",
+    "code",
+    "easteregg",
+    "easter-egg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
